@@ -1,0 +1,1 @@
+Draft a Mutual Non-Disclosure Agreement (NDA) between {{PartyA}} and {{PartyB}} for a term of {{Term}} years. The agreement must be governed by the laws of {{Jurisdiction}}. Include clauses for confidentiality, permitted disclosures, term, return of information, and remedies.
